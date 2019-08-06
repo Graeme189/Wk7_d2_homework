@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
           this.rateObjects = data.rates
           this.base = data.base
         });
-      }, //fetchCurrencies brackets
-    } // methods brackets
-  }) // new Vue brackets
-}) // document brackets
+      }, 
+    }
+  })
+})
